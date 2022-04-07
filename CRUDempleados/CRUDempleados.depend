@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649347089 source:c:\users\bryan\clonacion\personal\crudempleados\main.cpp
+	<iostream>
+	"empleados.h"
+
+1649346803 c:\users\bryan\clonacion\personal\crudempleados\include\empleados.h
+	<iostream>
+
+1649354068 source:c:\users\bryan\clonacion\personal\crudempleados\src\empleados.cpp
+	<iostream>
+	"empleados.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
